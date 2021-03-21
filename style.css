@@ -522,8 +522,9 @@ section.slider img{
 }
 
 .product-overlay ul li i{
-    color: white;
+    
     line-height: 40px;
+    color: white;
 }
 
 .product-item:hover .product-overlay{
